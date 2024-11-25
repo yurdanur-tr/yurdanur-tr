@@ -1,0 +1,4 @@
+- 👋 Hi, I’m yurdanur
+- 👀 I’m interested in coding and science
+- 🌱 I’m currently learning C programming
+- ⚡ Fun fact: I am a freshman electrical engineering student.
